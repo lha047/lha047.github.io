@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beijing for dummies"
+title:  "En annerledes guide til Beijing"
 date:   2015-09-16
 categories: travel
 ---
