@@ -1,4 +1,9 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+---
+layout: post
+title:  "Beijing for dummies"
+date:   2015-09-16
+categories: travel
+---
 En annerledes guide til Beijing
 ===============================
 

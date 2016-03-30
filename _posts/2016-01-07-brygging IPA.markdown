@@ -2,11 +2,11 @@
 layout: post
 title:  "IPA"
 date:   2016-01-07 
-categories: jekyll update
+categories: update beer
 ---
-#Brygging av IPA
+# Brygging av IPA
 
-##Oppskrift
+## Oppskrift
 5 kg (71.5 %) - Pale Malt, Maris Otter 5EBC 
 0.5 kg (7.1 %) - Caranel/Crystal Malt 
 0.6 kg (8.5 %) - Wheat Malt, Bel

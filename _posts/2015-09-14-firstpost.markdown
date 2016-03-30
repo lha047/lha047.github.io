@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "En annerledes guide til Beijing / Beijing for dummies"
+date:   2015-09-14
+categories: travel
+---
 En annerledes guide til Beijing / Beijing for dummies
 ===========
 I løpet av en uke i Beijing fant vi ut at det var nødvendig å lage en "Beijing for dummies"-bok. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Brygging"
 date:   2015-12-30 21:08:57
-categories: jekyll update
+categories: beer
 ---
 #Hjemmebrygging
 Jeg kjøpte litt bryggeutstyr og et lite test brygg til pappa til jul :) Det ble stor suksess! 28 desember ble det brygging. Her er en liten oppsummering av bryggeopplegget vi hadde den dagen.

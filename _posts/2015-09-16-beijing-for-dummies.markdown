@@ -1,4 +1,9 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+---
+layout: post
+title:  "Beijing for dummies"
+date:   2015-09-16
+categories: travel
+---
 Beijing for dummies
 ===========
 I løpet av en uke i Beijing fant vi ut at det var nødvendig å lage en "Beijing for dummies"-bok. 
