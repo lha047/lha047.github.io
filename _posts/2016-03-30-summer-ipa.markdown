@@ -33,3 +33,7 @@ Skullevann: 8l, 78 grader, 15 min <br>
 First runnings: 16l, 1068 <br>
 Boil: 26l, 1060, 1t 30 min, 5 watt 180 temp. <br>
 Gjæringskar: 17l, 1074 <br>
+Trørrhunling: 14.04.16 <br>
+Tapping: 17.04.16. <br>
+FG: 1016 <br>
+ABV: 7.6%
