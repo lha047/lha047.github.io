@@ -15,3 +15,5 @@ Pakke ut av bilen og slå opp teltet ble en rutine :)
 Det regnet første natta, men heldigvis holdt teltet vannet ute. Trikset for de som ikke vet det er å ha stramt yttertelt som ikke er i kontakt med innerteltet. 
 
 <img src="/img/pannekaker.png" alt="pannekaker" >
+
+<img src="/img/sunsetLilleby2.png" alt="Solnedgang Lilleby" >
