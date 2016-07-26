@@ -1,0 +1,14 @@
+---
+layout: øl
+---
+<div class="oel-post">
+
+  <header class="oel-post-header">
+    <p class="oel-post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="oel-post-content">
+    {{ content }}
+  </article>
+
+</div>
