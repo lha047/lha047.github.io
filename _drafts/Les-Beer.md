@@ -1,0 +1,15 @@
+---
+layout: post
+title: Les Beer
+---
+Spaserer bortover gata... Ser inn i et av mange smug. “Oi :) LesBeer! Det ser jo gøy ut :)“ Går gjennom en stor tung dør, og inn i en passe stor oppusset gammel kjellerhall. Puben er enkelt dekorert med bord, stoler og sofaer i forskjellige former og fassonger. Ingen sitter ved bordene. Det er kun en lang kø ved baren...
+
+Stedet har 6 øl på tap og en hel meny av flaskeøl fra forskjelling steder. De har kjente og ukjente fra Belgia, Nederland, USA m.m. 
+
+
+<img src="/img/lesBeer.png" alt="Les Beer menu" >
+
+<img src="/img/lesBeer2.png" alt="Les Beer - IPA, IPA, porter and BGS" >
+
+
+<img src="/img/lesBeer3.png" alt="Les Beer - family at the pub" >
