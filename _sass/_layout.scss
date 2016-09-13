@@ -1,20 +1,26 @@
+$white: #fff;
 /**
  * Site header
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 7em;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 #mainHeader {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 5em;
+  padding-bottom: 2em;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../img/sunsetLilleby2.png) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  /*background: #2e7bcf url(../img/sunsetLilleby2.png) 0 0 repeat-x;*/
+  background-image: url(../img/sunsetLilleby2.png);
+    background-color: rgb(0, 0, 0);
+    /* RGBa with 0.6 opacity */
+    background-color: rgba(0, 0, 0, 0.6);
+  background-position: 0% 25%;
+  background-size: 100%;
 }
 .site-title {
     font-size: 26px;
@@ -25,7 +31,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $white;
     }
 }
 
@@ -38,7 +44,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $white;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
