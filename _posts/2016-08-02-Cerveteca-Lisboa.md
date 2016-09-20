@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Cerveteca Lisboa
+date: 2016-08-02
+categories: travel beer post
 ---
 #Cerveteca Lisboa
 
