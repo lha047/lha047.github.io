@@ -24,4 +24,4 @@ Nå prøver jeg ut et alternativ til vanlige energibarer, som for meg bare er s�
 
 Bland først alt det tørre (utenom salt). Smelt kokosoljen, og ha den i det tørre. Rør godt. Pisk eggehvittene slik at de får myke topper. Bland så kornblandingen i eggehvittene. Legg miksen på ei stekeplate med bakepapir. Bland i så mye Maldon salt og Siracha du ønsker. Fordel det utover i et 1-2 cm tykt lag. Stek midterst i ovnen på 150 grader i 40-50 min, eller til det ser ferdig ut. Etter ca. 15 min kan man dele opp og røre litt i granolaen. Deretter kan man røre ca hvert 15. min. Det er de små bitene yttest på kanten av brettet som blir fortest brent, så jeg prøver å "ruller" på det som ligger ved kanten. 
 
-<img src="/img/saltGranola.png" alt="Salt granola">
+<img class="medium-img img-center" src="/img/saltGranola.png" alt="Salt granola">
