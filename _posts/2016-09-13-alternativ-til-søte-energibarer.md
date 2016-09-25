@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Alternativ til søte energibarer
+categories: update food
 ---
 # Alternativ til søte energibarer
 

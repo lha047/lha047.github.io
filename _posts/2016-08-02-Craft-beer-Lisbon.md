@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Craft beer Lisbon
+categories: travel beer post
 ---
 Ut på tur igjen :) Denne gang til Lisboa, Portugal. Kanskje ikke akkurat kjent for sin craft beer kultur? 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Vietnamesisk risnuddel salat"
 date:   2016-08-08 
-categories: update oppskrift
+categories: update food
 ---
 # Vietnamesisk risnuddel salat
 
