@@ -9,6 +9,9 @@ Første forsøk på hjemmelagde pølser ble tålig bra. Lammepølsene hadde god 
 men var litt tørre. Bratwursten fikk litt mye pepper, og var litt tørr. Ellers 
 var vi ganske fornøyd med første forsøk. 
 
+<img class="small-img" src="/img/polsemiddag.jpg" alt="Pølse middag">
+<img class="small-img" src="/img/bratwurst.jpg" alt="Fersk Bratwurst">
+
 ## Ingredienser Urøkt Bratwurst
 
 * ca 1500g Nakkekottelsetter - ca 1000g svinekjøtt
