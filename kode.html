@@ -3,11 +3,13 @@ layout: page
 title: Kode
 permalink: /Kode/
 ---
+<h1>
 Diverse relatert til programmering og bukeropplevelser
+</h1>
 
 <div class="container">
 {% for post in site.posts |%}
-{% if post.categories contains 'post' %}
+{% if post.categories contains 'code' %}
 <div class="post">
 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 <h2>
